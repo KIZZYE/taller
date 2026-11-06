@@ -1,0 +1,12 @@
+# Entrenamiento (Colab ya trae torch/torchvision) y app web local
+torch>=2.2
+torchvision>=0.17
+transformers>=4.40
+torchmetrics>=1.3
+numpy
+scipy
+pillow
+matplotlib
+pandas
+kaggle            # solo para descargar el dataset
+streamlit>=1.50   # app web (se usa en la Parte 3)
